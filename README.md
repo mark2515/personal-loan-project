@@ -1,4 +1,6 @@
 # personal-loan-project
+[ Group project for CMPT 353 Computational Data Science ]
+
 This project seeks to automate the loan eligibility assessment for a finance company dealing in home loans across diverse geographic regions. To automate this process, we have designed a model to identify which customers are eligible for loan approval. Furthermore, based on the information provided by customers, we also analyze the relationships between independent variables and the target variable.
 
 # Dataset
